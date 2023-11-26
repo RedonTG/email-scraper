@@ -1,3 +1,6 @@
+# Port-Scanner by RedonTG 
+# Code written by RedonTG 
+
 from bs4 import BeautifulSoup
 import requests
 import requests.exceptions
